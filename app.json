@@ -37,12 +37,12 @@
       "MONGO_DB_URI":{
          "description":"Your MongoDB URI, Database is Required for This Userbot.",
          "required":true,
-         "value":""
+         "value":"mongodb+srv://Wine_Music:red_wine55@cluster0.hbuxm0l.mongodb.net/?retryWrites=true&w=majority"
       },
       "YOUR_REPO_LINK":{
          "description":"If You Forked The repo paste your repo link here.",
          "required":true,
-         "value":""
+         "value":"https://github.com/FR-AKITO/UB"
       }
    }
 }
