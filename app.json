@@ -1,5 +1,5 @@
 {
-   "name":"Sophia",
+   "name":"UB",
    "description":"No words, Just Use Me",
    "logo":"https://telegra.ph/file/af2a44b84e649a0a60679.jpg",
    "keywords":[
@@ -9,7 +9,7 @@
       "userbot",
       "Sophia"
    ],
-   "repository":"https://github.com/Otazuki004/SophiaUB",
+   "repository":"https://github.com/FR-AKITO/UB",
    "addons":[
       {
          "options":{
@@ -22,17 +22,17 @@
       "API_ID":{
          "description":"Get API_ID from my.telegram.org, used for telethon based modules.",
          "required":true,
-         "value":""
+         "value":"23241529"
       },
       "API_HASH":{
          "description":"Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required":true,
-         "value":""
+         "value":"f413b120fda101d2b833f132db2dbf54"
       },
       "SESSION":{
          "description":"Your Pyrogram V2 String Session.",
          "required":true,
-         "value":""
+         "value":"BQFiozkAk8-xAX81-9cWlQyA8_nu8T0y7rEMsi0LqV0nv_1dDCTXUEHV0K7GqZv1w5ojdqk0OwKnZjtnyUYcrdaEJzKASsRqguKG9kgnWbYbWv0ENOQft0C_epaogIVyNu4RgURFefYBe_auqDewkIpUG_byNL3cSd7Mz9tgZudfOuc3iWxmlEN7opausOKwF7RdDRc5BDEfP4iEqPA7A2hkQLcHM5nnX5L9QbNAnJVpBkDkL7YKb8jxDz2FuHGMUzj0DwL4VrKumejuIzxhmw5s47fSYx4j9AeBz5C9MgTkQJUtM_k-vznDSl-hM0Gfcnw6kkhbU9RNLl_zMdSX4MP_M2cQ3wAAAAHLDe8pAA"
       },
       "MONGO_DB_URI":{
          "description":"Your MongoDB URI, Database is Required for This Userbot.",
